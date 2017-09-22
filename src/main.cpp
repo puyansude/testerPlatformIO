@@ -2,6 +2,7 @@
  * Blink
  * Turns on an LED on for one second,
  * then off for one second, repeatedly.
+ * Petit test de git
  */
 
 #include "Arduino.h"
